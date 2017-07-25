@@ -1,0 +1,421 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+html{
+	font-size: 100%;
+}
+.s-icon{
+	position: absolute;
+	bottom: 0.2rem;
+	width: 0.9rem;
+	left: 2.75rem;
+	z-index: 100;
+}
+/*----------1----------*/
+.p1-1{
+	position: absolute;
+	top:4.2rem;
+	left:1.2rem;
+	width: 4rem;
+	z-index: 2;
+}
+.p1-2{
+	position: absolute;
+	top: 2.38rem;
+    left: 1.2rem;
+    width: 2rem;
+}
+.p1-3{
+	position: absolute;
+	top: 2.4rem;
+    left: 1.2rem;
+    width: 4rem;
+}
+.p1-4{
+	position: absolute;
+	width: 0.9rem;
+    left: 1.2rem;
+    top: 3.8rem;
+    z-index: 3;
+}
+.p1-5{
+	position: absolute;
+	width: 3rem;
+    top: 4.95rem;
+    left: 2.2rem;
+    z-index: 4;
+}
+.p1-6{
+	position: absolute;
+    top: 3.37rem;
+    left: 2.2rem;
+    width: 1rem;
+    z-index: 3;
+}
+.p1-7{
+	position: absolute;
+	width: 1.14rem;
+    top: 2.4rem;
+    left: 2.67rem;
+    z-index: 3;
+}
+.p1-8{
+	position: absolute;
+	width: 0.55rem;
+    top: 2.4rem;
+    left: 3.27rem;
+}
+.p1-9{
+	width: 0.5rem;
+    position: absolute;
+    top: 4.1rem;
+    left: 2.1rem;
+    z-index: 3;
+}
+.p1-10{
+	position: absolute;
+	width: 1.8rem;
+    top: 4.08rem;
+    left: 2.02rem;
+    z-index: 5;
+}
+.p1-11{
+	width: 0.5rem;
+	position: absolute;
+    top: 4.08rem;
+    left: 2.59rem;
+    z-index: 5;
+}
+.p1-12{
+	width: 2.08rem;
+    height: 2.2rem;
+    position: absolute;
+    top: 3.88rem;
+    left: 3.12rem;
+    z-index: 5;
+}
+.p1-13{
+	position: absolute;
+    top: 6.08rem;
+    left: 2.2rem;
+    z-index: 5;
+    width: 3rem;
+}
+.p1-14{
+	position: absolute;
+	width: 3rem;
+    top: 8.6rem;
+    left: 1.7rem;
+}
+/*----------p2---------*/
+.p2-1 img{
+	position: absolute;
+	width:6.4rem;
+	top: 0;
+	left: 0;
+}
+.p2-2{
+	position: absolute;
+	width: 5.4rem;
+    bottom: 2.2rem;
+    left: 0.5rem;
+}
+.p2-3{
+	position: absolute;
+	width: 5.4rem;
+    bottom: 1.2rem;
+    left: 0.5rem;
+}
+/*--------3--------*/
+.p3-1{
+	position: absolute;
+	top: 8rem;
+	left: 4rem;
+	width: 2rem;
+}
+.p3-2{
+	position: absolute;
+	width: 3rem;
+    top: 7rem;
+    left: 0.2rem;
+}
+.p3-3{
+	position: absolute;
+	width: 3.3rem;
+    top: 5.6em;
+    left: 3rem;
+}
+.p3-4{
+	position: absolute;
+	width: 3rem;
+    top: 4rem;
+    left: 0.2rem;
+}
+.p3-5{
+	position: absolute;
+	top: 1.5rem;
+	left: 3rem;
+	width: 3rem;
+}
+.p3-6{
+	position: absolute;
+	width: 1rem;
+    top: 1rem;
+    left: 0.8rem;
+}
+.p3-7{
+	position: absolute;
+	width: 0.8rem;
+    top: 9.8rem;
+    left: 1rem;
+}
+
+
+.p3-8{
+	position: absolute;
+	width: 1rem;
+    top: 4rem;
+    right: 0.5rem;
+}
+/*--------4--------*/
+/*--------5--------*/
+/*--------6--------*/
+.p6-1{
+	width: 4rem;
+    position: absolute;
+    top: 2rem;
+    left: 6.5rem;
+}
+.p6-2{
+	width: 2.2rem;
+    position: absolute;
+	top: 0.5rem;
+    left: 0.9rem;
+
+}
+.p6-3{
+	position: absolute;
+	width: 0.5rem;
+	top: 0.3rem;
+	left: 0;
+}
+.p6-4{
+	position: absolute;
+    width: 0.4rem;
+    top: 6rem;
+    right: 5rem;
+}
+.p6-5{
+	position: absolute;
+    width: 0.5rem;
+    top: 9em;
+    right: 1em;
+}
+.p6-6{
+	width: 2.2rem;
+    position: absolute;
+    top: 0.6rem;
+    left: 3.7rem;
+}
+/*--------7--------*/
+.p7-1{
+	width: 2.2rem;
+    position: absolute;
+    top: 3rem;
+    left: 5.8rem;
+    z-index: 5;
+}
+.p7-2{
+	width: 2.2rem;
+    position: absolute;
+    top: 0.28rem;
+    left: -1rem;
+}
+.p7-3{
+	position: absolute;
+	width: 0.5rem;
+    top: 6rem;
+    left: 0;
+}
+.p7-4{
+	position: absolute;
+    width: 0.8rem;
+    top: 8rem;
+    right: 0rem;
+}
+.p7-5{
+	position: absolute;
+    width: 0.7rem;
+    top: 0.2rem;
+    right: 1rem;
+    z-index: 2;
+}
+.p7-6{
+	width: 2.2rem;
+    position: absolute;
+    top: 9rem;
+    left: -1rem;
+}
+.p7-7{
+	width: 4rem;
+	position: absolute;
+	left: 1.2rem;
+	top:1.2rem;
+}
+.p7-8{
+	width: 5rem;
+	position: absolute;
+	top:2.5rem;
+	left: 0.7rem;
+}
+.p7-9{
+	position: absolute;
+    width: 3.4rem;
+    top: 3.5rem;
+    left: 1.5rem;
+    display: none;
+}
+.p7-9 img{
+	position: relative;
+	width: 3.4rem;
+	left: 0;
+	top: 0;
+}
+.p7-10{
+	width: 4rem;
+	position: absolute;
+	top: 4.4rem;
+    left: 2.2rem;
+}
+.p7-11{
+	width: 4rem;
+	position: absolute;
+	top: 6.8rem;
+    left: 0.4rem;
+}
+.p7-12{
+	width: 4rem;
+	position: absolute;
+	top: 9rem;
+    left: 2rem;
+}
+/*--------8--------*/
+.p8-1{
+	width: 2.2rem;
+    position: absolute;
+    top: 3rem;
+    left: 5.8rem;
+    z-index: 5;
+}
+.p8-2{
+	width: 2.2rem;
+    position: absolute;
+    top: 0.28rem;
+    left: -1rem;
+}
+.p8-3{
+	position: absolute;
+	width: 0.5rem;
+    top: 0.3rem;
+    left: -1rem;
+}
+.p8-4{
+	position: absolute;
+    top: -0.5rem;
+    right: -1rem;
+    width: 0.8rem;
+}
+.p8-5{
+	position: absolute;
+    width: 0.7rem;
+    top: 2rem;
+    right: -0.68rem;
+    z-index: 2;
+}
+.p8-6{
+	width: 2.2rem;
+    position: absolute;
+    top: 3rem;
+    left: -2.5rem;
+    /*animation: p6 0.6s ease-in-out;*/
+}
+.p8-7{
+	position: absolute;
+	top: 1rem;
+    width: 3rem;
+    z-index: 10;
+    left: 1.7rem;
+}
+.p8-8{
+	position: absolute;
+	width: 3.1rem;
+	top: 3.2rem;
+	left: 1.65rem;
+}
+.p8-9{
+	position: absolute;
+	width: 3.1rem;
+	top:5.2rem;
+	left: 1.65rem;
+}
+.p8-10{
+	position: absolute;
+	bottom: 1.6rem;
+    width: 1.9rem;
+    left: 0.2rem;
+}
+.p8-11{
+	position: absolute;
+	bottom: 1.3rem;
+    width: 1.9rem;
+    left: 2.25rem;
+}
+.p8-12{
+	position: absolute;
+	bottom: 1.8rem;
+    width: 1.9rem;
+    right:0.2rem;
+}
+/*--------p9----------*/
+.p9-1{
+	position: absolute;
+	width: 6.4rem;
+	top:0;
+}
+.p9-2{
+	position: absolute;
+	width: 4.8rem;
+	left: 0.8rem;
+	top:4rem;
+}
+.p9-3{
+	position: absolute;
+	width: 3rem;
+    top: 6rem;
+    left: 1.7rem;
+}
+.p9-4{
+	position: absolute;
+	top: 6.5rem;
+    width: 1.3rem;
+    left: 2.55rem;
+}
+.p9-5{
+	position: absolute;
+	bottom: 0.5rem;
+    width: 4.5rem;
+    left: 0.95rem;
+
+}
+.p9-6{
+	position: absolute;
+	/*top: 0.8rem;*/
+	right:0.2rem;
+    width: 1.2rem;
+    animation: p9 0.8s linear infinite;
+}
+@keyframes p9{
+	0%{ top:0.9rem; }
+	100%{ top:0.5rem; }
+}

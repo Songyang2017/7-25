@@ -1,0 +1,551 @@
+/*第四部分*/
+.f{
+	z-index: 10;
+}
+.f img{
+	position: absolute;
+	width: 1.11743rem;
+	z-index: 1;
+}
+.x img{
+	width: 6.3975rem;
+	height: 11.379rem;
+	position: absolute;
+	top: -1rem;
+	left: 0rem;
+}
+.Ass img{
+	position: absolute;
+}
+.xianshi{
+	position: absolute;
+	width: 2.6443rem;
+	height: 0.58rem;
+	left: 2.849rem;
+	top: 8.38rem;
+	animation: hand 1s 5s linear infinite both;
+}
+.text3 img{
+	position: absolute;
+	width: 1.35627rem;
+	height: 0.96rem;
+	left: 2.71254rem;
+	top: 3.24rem;
+}
+/*4*/
+.text4 img{
+	position: absolute;
+	width: 2.584rem;
+	height: 0.963rem;
+	left: 2.19rem;
+	top: 3.7532rem;
+}
+.v,.lef,.rig,.close1{
+	display: none;
+}
+.v img{
+	position: absolute;
+	top: 4.265rem;
+	z-index: 200;
+}
+.v1 img{
+	width: 3.82997rem;
+	height: 4.46972rem;
+	left: 1.2795rem;
+}
+.v2 img{
+	width: 2.82343rem;
+	height: 4.45266rem;
+	left: 1.791rem;
+	
+}
+.v3 img{
+	width: 3.81rem;
+	height: 4.7768rem;
+	left: 1.32215rem;
+}
+.v4 img{
+	width: 3.92rem;
+	height: 4.78533rem;
+	left: 1.1942rem;
+}
+.v5 img{
+	width: 5.10947rem;
+	height: 4.46972rem;
+	left: 0.5971rem;
+}
+.v6 img{
+	width: 4.66rem;
+	height: 4.46119rem;
+	left: 0.853rem;
+}
+.v7 img{
+	width: 2.7rem;
+	height: 4.47825rem;
+	left: 1.7913rem;
+}
+.v8 img{
+	width: 2.74666rem;
+	height: 4.46972rem;
+	left: 1.8766rem;
+}
+.close1 img{
+	width: 1.03213rem;
+	height: 0.810rem;
+	position: absolute;
+	right: 0.30rem;
+	top: 1.1089rem;
+	z-index: 100;
+}
+/*第五部分*/
+.slide5{
+	background: url(../img/5bg.png);
+	background-size: 100% 100%;
+	position: relative;
+}
+.slide5>div:nth-of-type(1) img{
+	width: 0.81rem;
+	height: 0.53739rem;
+	position: absolute;
+	left: 0.853rem;
+	top: 0.853rem;
+}
+.slide5>div:nth-of-type(2) img{
+	width: 2.40rem;
+	height: 0.9383rem;
+	position: absolute;
+	left:0.6824rem;
+	top: 1.5354rem;
+}
+.men{
+	width: 1.3648rem;
+	height: 1.93631rem;
+	position: absolute;
+}
+.men img{
+	width: 1.3648rem;
+	height: 1.93631rem;
+/*	opacity: 0;*/
+}
+.slide5>div:nth-of-type(3){
+	left: 0.1706rem;
+	top: 6.482rem;
+}
+.slide5>div:nth-of-type(4){
+	left: 0.3412rem;
+	top: 2.4737rem;
+}
+.slide5>div:nth-of-type(5){
+	left: 3.32rem;
+	top: 1.961rem;
+}
+.slide5>div:nth-of-type(6){
+	left: 5.0327rem;
+	top: 2.4737rem;
+}
+.slide5>div:nth-of-type(7){
+	left:1.706rem;
+	top: 4.265rem;
+}
+.slide5>div:nth-of-type(8){
+	left: 3.4972rem;
+	top: 4.6915rem;
+}
+.slide5>div:nth-of-type(9){
+	left: 4.9474rem;
+	top: 6.3975rem;
+}
+.slide5>div:nth-of-type(10){
+	left: 2.814rem;
+	top: 7.16rem;
+}
+.slide5>div:nth-of-type(11){
+	left: 4.265rem;
+	top: 8.8712rem;
+}
+.slide5>div:nth-of-type(12){
+	left: 1.2795rem;
+	top: 9.383rem;
+}
+.men1 img{
+	width: 2.1410rem;
+	height: 1.13449rem;
+	position: absolute;
+	left: 0.1706rem;
+	top: 8.0182rem;
+	animation: hand 1s 10s linear infinite both;
+}
+@-webkit-keyframes hand{
+	from{opacity: 0;}
+	to{opacity: 1;}
+}
+.jiantou img{
+	width: 0.46rem;
+	height: 0.1535rem;
+	position: absolute;
+	bottom: 0rem;
+	left: 2.9855rem;
+	animation: jian 1s ease-out infinite both;
+}
+@-webkit-keyframes jian{
+	0{bottom: 0rem;}
+	100%{bottom: 0.4265rem;}
+}
+.yincang{
+	width: 4.6915rem;
+	height: 7.677rem;
+	background: #000000;
+	position: absolute;
+	left: 0.810rem;
+	top: 1.2795rem;
+	display: none;
+}
+.ma>div:nth-of-type(1){
+	width: 4.6915rem;
+	height: 4.265rem;
+	position: absolute;
+	left: 0;
+	top: 0.853rem;
+	overflow: hidden;
+}
+.yincang div>img{
+	width: 4.6915rem;
+	height: 4.265rem;
+}
+.yincang>img:nth-of-type(1){
+	width: 1.03213rem;
+	height: 0.810rem;
+	position: absolute;
+	right: 0;
+	top: 0;
+}
+.yincang>img:nth-of-type(2){
+	width: 4.70003rem;
+	position: absolute;
+	left: 0;
+	top: 5.118rem;
+}
+.txt{
+	width: 4.6915rem;
+	position: absolute;
+	top: 5.118rem;
+	left: 0;
+}
+.yincang h2{
+	color: #fff;
+	font-size: 0.409rem;
+	font-family: simsun;
+	margin: 0.4265rem;
+}
+.yincang p{
+	color: #fff;
+	font-size: 0.22178rem;
+	margin-left: 0.4265rem;
+}
+/*5*/
+.bili div:nth-of-type(1){
+	width: 4.6915rem;
+	height: 4.265rem;
+	position: absolute;
+	left: 0;
+	top: 1.706rem;
+	overflow: hidden;
+}
+.bili>div>img{
+	width: 4.6915rem;
+	height: 2.559rem;
+}
+.tanghuai>div>img{
+	width: 4.6915rem;
+	height: 5.971rem;
+}
+.tanghuai div:nth-of-type(1){
+	width: 4.6915rem;
+	height: 3.8385rem;
+	position: absolute;
+	left: 0;
+	top: 1.1942rem;
+	overflow: hidden;
+}
+.yixiaoxing div:nth-of-type(1),
+.zhoushou div:nth-of-type(1),
+.yujianjun div:nth-of-type(1),
+.haochang div:nth-of-type(1),
+.huangjixin div:nth-of-type(1),
+.lizhiming div:nth-of-type(1),
+.limingwei div:nth-of-type(1){
+	width: 4.6915rem;
+	height: 4.265rem;
+	position: absolute;
+	left: 0;
+	top: 0.853rem;
+	overflow: hidden;
+}
+.yixiaoxing>div>img,.zhoushou>div>img{
+	width: 4.6915rem;
+	height: 5.971rem;
+}
+
+.slide_6{
+	background: url(../img/p6_bc.png);
+	background-size: cover;
+	position: relative;
+}
+.slide_6_sanjiaoti p{
+	position: absolute;
+	display: none;
+}
+.slide_6_sanjiaoti p img{
+	display: inline-block;
+}
+.slide_6_s1{
+	left: -2%;
+	top: 6%;
+}
+.slide_6_s1 img{
+	width: 0.614rem;
+	height: 0.90418rem;
+}
+@keyframes ss1{
+	0%{
+		left:100% ;
+		top: 10%;
+		transform: scale(5);
+	}
+	25%{
+		left:75% ;
+		top: 9%;
+		transform: scale(4);
+	}
+	50%{
+		left:50% ;
+		top: 8%;
+		transform: scale(3);
+	}
+	75%{
+		left:25% ;
+		top: 7%;
+		transform: scale(2);
+	}
+	100%{
+		left:-2% ;
+		top: 6%;
+		transform: scale(1);
+	}
+}
+.slide_6_s2{
+	left: 4%;
+	top: 8%;
+}
+.slide_6_s2 img{
+	width: 2.32869rem;
+	height: 1.893rem;
+}
+@keyframes ss2{
+	0%{
+		left:-36% ;
+		top: 48%;
+		transform: scale(5);
+	}
+	25%{
+		left:-26% ;
+		top: 38%;
+		transform: scale(4);
+	}
+	50%{
+		left:-16% ;
+		top: 28%;
+		transform: scale(3);
+	}
+	75%{
+		left:-6% ;
+		top: 18%;
+		transform: scale(2);
+	}
+	100%{
+		left:4% ;
+		top: 8%;
+		transform: scale(1);
+	}
+}
+.slide_6_s3{
+	left: 25%;
+	top: 6%;
+	z-index: 5;
+}
+/*6*/
+.slide_6_s3 img{
+	width: 2.32016rem;
+	height: 2.11544rem;
+}
+@keyframes ss3{
+	0%{
+		left:125% ;
+		top: 26%;
+		transform: scale(5);
+	}
+	25%{
+		left:100% ;
+		top: 21%;
+		transform: scale(4);
+	}
+	50%{
+		left:75% ;
+		top: 16%;
+		transform: scale(3);
+	}
+	75%{
+		left:50% ;
+		top: 11%;
+		transform: scale(2);
+	}
+	100%{
+		left:25% ;
+		top: 6%;
+		transform: scale(1);
+	}
+}
+.slide_6_s4{
+	left: 50%;
+	top: 7%;
+}
+.slide_6_s4 img{
+	width: 2.51635rem;
+	height: 1.782rem;
+}
+@keyframes ss4{
+	0%{
+		left:10% ;
+		top: 47%;
+		transform: scale(5);
+	}
+	25%{
+		left:20% ;
+		top: 38%;
+		transform: scale(4);
+	}
+	50%{
+		left:30% ;
+		top: 28%;
+		transform: scale(3);
+	}
+	75%{
+		left:40% ;
+		top: 18%;
+		transform: scale(2);
+	}
+	100%{
+		left:50% ;
+		top: 8%;
+		transform: scale(1);
+	}
+}
+.slide_6_s5{
+	left: 95%;
+	top: 7%;
+}
+.slide_6_s5 img{
+	width: 0.58004rem;
+	height: 0.7079rem;
+}
+@keyframes ss5{
+	0%{
+		left:-5% ;
+		top: 11%;
+		transform: scale(5);
+	}
+	25%{
+		left:20% ;
+		top: 10%;
+		transform: scale(4);
+	}
+	50%{
+		left:45% ;
+		top: 9%;
+		transform: scale(3);
+	}
+	75%{
+		left:70% ;
+		top: 8%;
+		transform: scale(2);
+	}
+	100%{
+		left:95% ;
+		top: 7%;
+		transform: scale(1);
+	}
+}
+.slide_6_change{
+	margin-top: 22%;
+	text-align: center;
+	font-size: 28px;
+	color: #fff;
+	font-family: "华文彩云";
+	font-weight: bold;
+	position: relative;
+	z-index: 100;
+}
+.slide_6_8wei{
+	margin-top: 15%;
+	text-align: center;
+	position: relative;
+}
+.slide_6_8wei img{
+	display: inline-block;
+	width: 3.80438rem;
+	height: 0.86153rem;
+}
+.slide_6_rencai p{
+	position: absolute;
+}
+.slide_6_rencai p img{
+	display: inline-block;
+}
+.slide_6_gao{
+	left: 22%;
+	top: 41%;
+}
+.slide_6_gao img{
+	width: 1.799rem;
+	height: 2.141rem;
+}
+.slide_6_hua{
+	right: 23%;
+	top: 37%;
+}
+.slide_6_hua img{
+	width: 1.4501rem;
+	height: 1.67188rem;
+}
+.slide_6_tu{
+	left: 16%;
+	top: 61%;
+}
+.slide_6_tu img{
+	width: 2.1325rem;
+	height: 1.7913rem;
+}
+.slide_6_xing{
+	right: 17%;
+	top: 53%;
+}
+.slide_6_xing img{
+	width:1.791rem;
+	height: 2.22633rem;
+}
+.slide_6_jiang{
+	left: 25%;
+	top: 78%;
+}
+.slide_6_jiang img{
+	width: 1.4501rem;
+	height:1.4501rem;
+}
+.slide_6_wang{
+	right: 23%;
+	top: 74%;
+}
+.slide_6_wang img{
+	width: 1.54393rem;
+	height: 1.8766rem;
+}
